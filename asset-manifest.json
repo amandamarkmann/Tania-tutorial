@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-tutorial/static/css/main.a6c49b6d.chunk.css",
-    "main.js": "/react-tutorial/static/js/main.de0c70ab.chunk.js",
-    "main.js.map": "/react-tutorial/static/js/main.de0c70ab.chunk.js.map",
-    "runtime-main.js": "/react-tutorial/static/js/runtime-main.4b063f4c.js",
-    "runtime-main.js.map": "/react-tutorial/static/js/runtime-main.4b063f4c.js.map",
-    "static/js/2.d35a2c42.chunk.js": "/react-tutorial/static/js/2.d35a2c42.chunk.js",
-    "static/js/2.d35a2c42.chunk.js.map": "/react-tutorial/static/js/2.d35a2c42.chunk.js.map",
-    "index.html": "/react-tutorial/index.html",
-    "precache-manifest.1d67e24c6c636f5664516e20b5e5eaee.js": "/react-tutorial/precache-manifest.1d67e24c6c636f5664516e20b5e5eaee.js",
-    "service-worker.js": "/react-tutorial/service-worker.js",
-    "static/css/main.a6c49b6d.chunk.css.map": "/react-tutorial/static/css/main.a6c49b6d.chunk.css.map",
-    "static/js/2.d35a2c42.chunk.js.LICENSE": "/react-tutorial/static/js/2.d35a2c42.chunk.js.LICENSE"
+    "main.css": "/Tania-tutorial/static/css/main.a6c49b6d.chunk.css",
+    "main.js": "/Tania-tutorial/static/js/main.de0c70ab.chunk.js",
+    "main.js.map": "/Tania-tutorial/static/js/main.de0c70ab.chunk.js.map",
+    "runtime-main.js": "/Tania-tutorial/static/js/runtime-main.af1c5630.js",
+    "runtime-main.js.map": "/Tania-tutorial/static/js/runtime-main.af1c5630.js.map",
+    "static/js/2.d35a2c42.chunk.js": "/Tania-tutorial/static/js/2.d35a2c42.chunk.js",
+    "static/js/2.d35a2c42.chunk.js.map": "/Tania-tutorial/static/js/2.d35a2c42.chunk.js.map",
+    "index.html": "/Tania-tutorial/index.html",
+    "precache-manifest.b84b612a3baa380c3d51110712f75708.js": "/Tania-tutorial/precache-manifest.b84b612a3baa380c3d51110712f75708.js",
+    "service-worker.js": "/Tania-tutorial/service-worker.js",
+    "static/css/main.a6c49b6d.chunk.css.map": "/Tania-tutorial/static/css/main.a6c49b6d.chunk.css.map",
+    "static/js/2.d35a2c42.chunk.js.LICENSE": "/Tania-tutorial/static/js/2.d35a2c42.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b063f4c.js",
+    "static/js/runtime-main.af1c5630.js",
     "static/js/2.d35a2c42.chunk.js",
     "static/css/main.a6c49b6d.chunk.css",
     "static/js/main.de0c70ab.chunk.js"
